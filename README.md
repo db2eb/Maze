@@ -1,1 +1,2 @@
 Read Me
+This is an example of the A* Search Algorithm, which is a path finding algorithm which is very similar to Dijkstra's in that it is a greedy algorithm: it chooses the best option as it sees fit. What makes A* different is that it uses a heuristic, which is a learned rule to make better choices. In this program the heuristic is the distance from the start to the finish. It starts top-left and ends bottom-right. This uses Javascript and p5.
